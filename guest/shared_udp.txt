@@ -1,0 +1,120 @@
+------------------------------------------------------------
+Client connecting to 192.168.2.3, UDP port 5000
+Sending 1470 byte datagrams
+UDP buffer size:   352 KByte (WARNING: requested 9.77 MByte)
+------------------------------------------------------------
+[  3] local 192.168.2.1 port 43981 connected with 192.168.2.3 port 5000
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-30.0 sec    363 MBytes    101 Mbits/sec
+[  3] Sent 258767 datagrams
+[  3] Server Report:
+[ ID] Interval       Transfer     Bandwidth       Jitter   Lost/Total Datagrams
+[  3]  0.0-30.0 sec    336 MBytes  93.9 Mbits/sec  0.020 ms 19267/258767 (7.4%)
+------------------------------------------------------------
+Client connecting to 192.168.2.3, UDP port 5000
+Sending 1470 byte datagrams
+UDP buffer size:   352 KByte (WARNING: requested 9.77 MByte)
+------------------------------------------------------------
+[  3] local 192.168.2.1 port 56957 connected with 192.168.2.3 port 5000
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-30.0 sec    373 MBytes    104 Mbits/sec
+[  3] Sent 266283 datagrams
+[  3] Server Report:
+[ ID] Interval       Transfer     Bandwidth       Jitter   Lost/Total Datagrams
+[  3]  0.0-30.0 sec    341 MBytes  95.4 Mbits/sec  0.022 ms 22979/266283 (8.6%)
+------------------------------------------------------------
+Client connecting to 192.168.2.3, UDP port 5000
+Sending 1470 byte datagrams
+UDP buffer size:   352 KByte (WARNING: requested 9.77 MByte)
+------------------------------------------------------------
+[  3] local 192.168.2.1 port 41623 connected with 192.168.2.3 port 5000
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-30.0 sec    371 MBytes    104 Mbits/sec
+[  3] Sent 264980 datagrams
+[  3] Server Report:
+[ ID] Interval       Transfer     Bandwidth       Jitter   Lost/Total Datagrams
+[  3]  0.0-30.0 sec    341 MBytes  95.4 Mbits/sec  0.019 ms 21523/264980 (8.1%)
+------------------------------------------------------------
+Client connecting to 192.168.2.3, UDP port 5000
+Sending 1470 byte datagrams
+UDP buffer size:   352 KByte (WARNING: requested 9.77 MByte)
+------------------------------------------------------------
+[  3] local 192.168.2.1 port 50851 connected with 192.168.2.3 port 5000
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-30.0 sec    358 MBytes    100 Mbits/sec
+[  3] Sent 255469 datagrams
+[  3] Server Report:
+[ ID] Interval       Transfer     Bandwidth       Jitter   Lost/Total Datagrams
+[  3]  0.0-30.0 sec    342 MBytes  95.6 Mbits/sec  0.032 ms 11679/255469 (4.6%)
+------------------------------------------------------------
+Client connecting to 192.168.2.3, UDP port 5000
+Sending 1470 byte datagrams
+UDP buffer size:   352 KByte (WARNING: requested 9.77 MByte)
+------------------------------------------------------------
+[  3] local 192.168.2.1 port 37984 connected with 192.168.2.3 port 5000
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-30.0 sec    359 MBytes    100 Mbits/sec
+[  3] Sent 256166 datagrams
+[  3] Server Report:
+[ ID] Interval       Transfer     Bandwidth       Jitter   Lost/Total Datagrams
+[  3]  0.0-30.0 sec    340 MBytes  94.9 Mbits/sec  0.008 ms 13984/256166 (5.5%)
+------------------------------------------------------------
+Client connecting to 192.168.2.3, UDP port 5000
+Sending 1470 byte datagrams
+UDP buffer size:   352 KByte (WARNING: requested 9.77 MByte)
+------------------------------------------------------------
+[  3] local 192.168.2.1 port 40344 connected with 192.168.2.3 port 5000
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-30.0 sec    365 MBytes    102 Mbits/sec
+[  3] Sent 260075 datagrams
+[  3] Server Report:
+[ ID] Interval       Transfer     Bandwidth       Jitter   Lost/Total Datagrams
+[  3]  0.0-30.0 sec    340 MBytes  95.1 Mbits/sec  0.016 ms 17411/260075 (6.7%)
+------------------------------------------------------------
+Client connecting to 192.168.2.3, UDP port 5000
+Sending 1470 byte datagrams
+UDP buffer size:   352 KByte (WARNING: requested 9.77 MByte)
+------------------------------------------------------------
+[  3] local 192.168.2.1 port 51011 connected with 192.168.2.3 port 5000
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-30.0 sec    357 MBytes  99.8 Mbits/sec
+[  3] Sent 254486 datagrams
+[  3] Server Report:
+[ ID] Interval       Transfer     Bandwidth       Jitter   Lost/Total Datagrams
+[  3]  0.0-30.0 sec    341 MBytes  95.3 Mbits/sec  0.033 ms 11380/254486 (4.5%)
+------------------------------------------------------------
+Client connecting to 192.168.2.3, UDP port 5000
+Sending 1470 byte datagrams
+UDP buffer size:   352 KByte (WARNING: requested 9.77 MByte)
+------------------------------------------------------------
+[  3] local 192.168.2.1 port 34756 connected with 192.168.2.3 port 5000
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-30.0 sec    374 MBytes    105 Mbits/sec
+[  3] Sent 266613 datagrams
+[  3] Server Report:
+[ ID] Interval       Transfer     Bandwidth       Jitter   Lost/Total Datagrams
+[  3]  0.0-30.0 sec    342 MBytes  95.5 Mbits/sec  0.012 ms 22985/266613 (8.6%)
+------------------------------------------------------------
+Client connecting to 192.168.2.3, UDP port 5000
+Sending 1470 byte datagrams
+UDP buffer size:   352 KByte (WARNING: requested 9.77 MByte)
+------------------------------------------------------------
+[  3] local 192.168.2.1 port 38896 connected with 192.168.2.3 port 5000
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-30.0 sec    360 MBytes    101 Mbits/sec
+[  3] Sent 256542 datagrams
+[  3] Server Report:
+[ ID] Interval       Transfer     Bandwidth       Jitter   Lost/Total Datagrams
+[  3]  0.0-30.0 sec    342 MBytes  95.6 Mbits/sec  0.028 ms 12573/256542 (4.9%)
+------------------------------------------------------------
+Client connecting to 192.168.2.3, UDP port 5000
+Sending 1470 byte datagrams
+UDP buffer size:   352 KByte (WARNING: requested 9.77 MByte)
+------------------------------------------------------------
+[  3] local 192.168.2.1 port 49643 connected with 192.168.2.3 port 5000
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-30.0 sec    374 MBytes    104 Mbits/sec
+[  3] Sent 266549 datagrams
+[  3] Server Report:
+[ ID] Interval       Transfer     Bandwidth       Jitter   Lost/Total Datagrams
+[  3]  0.0-30.0 sec    342 MBytes  95.5 Mbits/sec  0.014 ms 22914/266549 (8.6%)
