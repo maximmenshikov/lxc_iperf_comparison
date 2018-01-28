@@ -1,0 +1,70 @@
+------------------------------------------------------------
+Client connecting to 192.168.2.3, TCP port 5000
+TCP window size: 45.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.2.1 port 45886 connected with 192.168.2.3 port 5000
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-30.0 sec    311 MBytes  86.9 Mbits/sec
+------------------------------------------------------------
+Client connecting to 192.168.2.3, TCP port 5000
+TCP window size: 16.0 KByte (default)
+------------------------------------------------------------
+[  3] local 0.0.0.0 port 45897 connected with 192.168.2.3 port 5000
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 0.0 sec  0.00 Bytes  0.00 bits/sec
+------------------------------------------------------------
+Client connecting to 192.168.2.3, TCP port 5000
+TCP window size: 69.1 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.2.1 port 45887 connected with 192.168.2.3 port 5000
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-30.0 sec    296 MBytes  82.8 Mbits/sec
+------------------------------------------------------------
+Client connecting to 192.168.2.3, TCP port 5000
+TCP window size: 45.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.2.1 port 45888 connected with 192.168.2.3 port 5000
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-30.0 sec    305 MBytes  85.2 Mbits/sec
+------------------------------------------------------------
+Client connecting to 192.168.2.3, TCP port 5000
+TCP window size: 45.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.2.1 port 45889 connected with 192.168.2.3 port 5000
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-30.0 sec    307 MBytes  86.0 Mbits/sec
+------------------------------------------------------------
+Client connecting to 192.168.2.3, TCP port 5000
+TCP window size: 45.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.2.1 port 45890 connected with 192.168.2.3 port 5000
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-30.0 sec    306 MBytes  85.5 Mbits/sec
+------------------------------------------------------------
+Client connecting to 192.168.2.3, TCP port 5000
+TCP window size: 45.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.2.1 port 45891 connected with 192.168.2.3 port 5000
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-30.0 sec    300 MBytes  83.9 Mbits/sec
+------------------------------------------------------------
+Client connecting to 192.168.2.3, TCP port 5000
+TCP window size: 45.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.2.1 port 45892 connected with 192.168.2.3 port 5000
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-30.0 sec    306 MBytes  85.7 Mbits/sec
+------------------------------------------------------------
+Client connecting to 192.168.2.3, TCP port 5000
+TCP window size: 45.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.2.1 port 45893 connected with 192.168.2.3 port 5000
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-30.0 sec    306 MBytes  85.5 Mbits/sec
+------------------------------------------------------------
+Client connecting to 192.168.2.3, TCP port 5000
+TCP window size: 45.0 KByte (default)
+------------------------------------------------------------
+[  3] local 192.168.2.1 port 45894 connected with 192.168.2.3 port 5000
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-30.0 sec    301 MBytes  84.1 Mbits/sec
